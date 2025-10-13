@@ -1,2 +1,2 @@
 #!/bin/bash
-for f in mv /tmp/u
+mv [A-Z]* /tmp/u
