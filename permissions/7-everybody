@@ -1,2 +1,2 @@
 #!/bin/bash
-nchmod u+x hello\nchmod g+x hello\nchmod o+x hello
+chmod u+x hello\chmod g+x hello\chmod o+x hello
