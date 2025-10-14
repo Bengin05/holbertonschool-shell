@@ -1,0 +1,9 @@
+#!/bin/bash
+i=0
+while IFS= read -r line; do
+  i=$((i + 1))
+  if [ "$i" -eq 3 ]; then
+    echo "$line"
+    exit
+  fi
+done < iacta
