@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'BEST="School"' > 6-create_local_variable
+echo 'BEST=School' > 6-create_local_variable
