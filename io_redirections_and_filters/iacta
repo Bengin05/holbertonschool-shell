@@ -4,3 +4,4 @@ tail -n 1 tmpfile
 
 
 tail -n 1 iacta
+tail -n 1 iacta
